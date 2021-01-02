@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+  <html>
+  <head>
+    <title>Jaret Jones Resume</title>
+    </head>
+    <body>
+    <header>
+      <img src="karated.jpg" alt="karate dance">
+      <h1>Experience and Background</h1>
+     <ul>
+       <li>Feline Mental Health Therapist</li>
+      <li>Competitive Karate Tap Dancer</li>
+      <li>Ordained Minister of the Church of the Flying Spaghetti Monster</li>
+     </ul>
+      <img src="flyingsm.jpg" alt="his noodlieness">
+      </header>
+    <footer>
+      <img src="JaretPic.jpg" alt="cool kittie">
+      </footer>
+    </body>
+  </html>
